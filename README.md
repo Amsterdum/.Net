@@ -1,1 +1,1 @@
-# .Net
+# .Net lib with common utilities.
